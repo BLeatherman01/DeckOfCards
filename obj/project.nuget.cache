@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJcmKvrEdGzTHBDogKR0xJ1Bq+yMXZl1a7/gd92gw6WdJVu/BT4tK+MvFJXWOuMV04OSH9cdgmGEdMbsVIoKsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bleat\\source\\repos\\DeckOfCards\\DeckOfCards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bleat\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

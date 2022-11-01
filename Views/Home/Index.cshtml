@@ -1,0 +1,15 @@
+﻿@model UsersDeck
+
+@foreach(Card card in Model.DisplayCards.cards)
+{
+  <p>Card: @card.value of @card.suit</p>
+  <img src="@card.image"/> 
+  <p>@card.suit</p>
+  
+}
+
+<form asp-action="Index" asp-controller="Home" asp-route-id="@Model.DeckId">
+<input type="submit" value="Draw 5 new cards"/>
+</form>
+
+
